@@ -1,0 +1,1 @@
+c:\users\nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCSharp\bin\Debug\LeetCodeCSharp.exe.config
