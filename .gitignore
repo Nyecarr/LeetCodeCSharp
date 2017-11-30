@@ -12,3 +12,6 @@ obj/Debug/LeetCodeCSharp.csproj.FileListAbsolute.txt
 obj/Debug/LeetCodeCSharp.csproj.FileListAbsolute.txt
 obj/Debug/LeetCodeCSharp.dll
 obj/Debug/LeetCodeCSharp.pdb
+*.cache
+*.cache
+*.txt

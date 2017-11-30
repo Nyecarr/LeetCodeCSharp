@@ -5,3 +5,4 @@ c:\users\nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCShar
 c:\users\nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCSharp\bin\Debug\nunit.framework.xml
 c:\users\nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCSharp\obj\Debug\LeetCodeCSharp.dll
 c:\users\nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCSharp\obj\Debug\LeetCodeCSharp.pdb
+C:\Users\Nick\documents\visual studio 2015\Projects\LeetCodeCSharp\LeetCodeCSharp\obj\Debug\LeetCodeCSharp.csprojResolveAssemblyReference.cache
